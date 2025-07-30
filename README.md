@@ -86,5 +86,5 @@ GRANT ALL PRIVILEGES ON librenms.* TO 'librenms'@'localhost';
 FLUSH PRIVILEGES;
 EXIT;
 ```
-<div><p color="red">Note : </p><p>Replace the YourStrongPassword with your preferred Secured Password this will be used upon setting up the webui of LibreNMS</p>
+<div><p color="red">Note : </p><p>Replace the <code>YourStrongPassword</code> with your preferred Secured Password this will be used upon setting up the webui of LibreNMS</p>
 
